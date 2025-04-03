@@ -4,4 +4,6 @@ Same as `Spotify-Finder-Project` just added some UI features using python's tkin
 
 Original Spotify-Finder-Project -> [https://github.com/Skshee/Spotify-Finder-Project](https://github.com/Skshee/Spotify-Finder-Project)
 
-<img src="Spotify-Artist.gif" width="800">
+<video width="800" controls>
+  <source src="Spotify-Artist-Vid.mp4" type="video/mp4">
+</video>
